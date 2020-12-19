@@ -7,23 +7,40 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
+          "img": "/img/uploads/lanca1_copy_800x290.png",
+          "link": "/",
+          "alt": ""
         },
         {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "start": "",
-          "end": ""
+          "img": "/img/uploads/lanca2_copy_800x290.png",
+          "alt": "",
+          "link": ""
+        },
+        {
+          "img": "/img/uploads/lanca3_copy_800x290.png",
+          "link": "/",
+          "alt": ""
+        },
+        {
+          "img": "/img/uploads/lanca4_copy_800x290.png",
+          "alt": "",
+          "link": ""
+        },
+        {
+          "img": "/img/uploads/feedbackclientes_copy_800x290.png",
+          "link": "/",
+          "alt": ""
+        },
+        {
+          "img": "/img/uploads/1606708745067_BannerWhatsAmarelo_copy_800x290.png",
+          "alt": "",
+          "link": ""
         }
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "custom-html",
+      "html": "<div class=\"container-selos\" style=\"text-align: center;background: #f2f2f2;padding: 1.5rem;\"><p>Compre agora das principais ligas</p><ul class=\"selos\"><li><a href=\"https://www.ivocamisas.com.br/campeonato-brasileiro/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/LOGO-BRASILEIRaO.png\" alt=\"Brasileirao\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-alemao/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-bundesliga.png\" alt=\"Bundesliga\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-espanhol/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-laliga.png\" alt=\"La liga\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-ingles/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-premier-league.png\" alt=\"Premier league\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-italiano/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-Serie-A-Tim.png\" alt=\"Serie A Tim\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-frances/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-ligue1.png\" alt=\"Brasileirao\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-holandes/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-eredivise.png\" alt=\"Bundesliga\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-portugues/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-primeira-liga.png\" alt=\"La liga\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-mexicano/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-liga-mx.png\" alt=\"Premier league\"></a></li><li><a href=\"https://www.ivocamisas.com.br/major-league-soccer/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-MLS.png\" alt=\"Serie A Tim\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-argentino/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-liga-argentina.png\" alt=\"La liga\"></a></li><li><a href=\"https://www.ivocamisas.com.br/selecoes/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-selecoes.png\" alt=\"Premier league\"></a></li><li><a href=\"https://www.ivocamisas.com.br/times-diversos/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-Times-Diversos.png\" alt=\"Serie A Tim\"></a></li></ul></div>"
     },
     {
       "type": "collection-shelf",
@@ -33,9 +50,8 @@
       "page": 1
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }

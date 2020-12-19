@@ -3,7 +3,7 @@ const info = _.cms('info')
 const barCols = []
 ;[
   ['shipping', 'shipping-fast'],
-  ['installments', 'credit-card'],
+  ['lock', 'lock'],
   ['exchange', 'exchange-alt'],
   ['promo', 'percent']
 ].forEach(([prop, icon]) => {
@@ -25,7 +25,9 @@ const barCols = []
                 <i class="fas fa-<%= icon %>"></i>
               </span>
               <div class="ml-2 ml-md-3">
-                <%= text %>
+                <h4>
+                  <%= text %>
+                </h4>
               </div>
             </a>
           </div>

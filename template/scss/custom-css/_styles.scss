@@ -1,1 +1,103 @@
 // Add your custom CSS here.
+.footer {
+  &__description {
+    text-align: justify;
+    font-size: 13px;
+    color: #fce9af;
+  }
+
+  &__title {
+    font-size: 20px;
+    color: #f5ba0b;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+
+  a {
+    color: #f5ba0b;
+  }
+
+  background: #000;
+  color: #fce9af;
+}
+.variations__option--Não {
+  background-image: url(/img/uploads/no-image-select-placeholder.png);
+  color: transparent;
+  background-size: 100% 100%;
+  font-size: 0px;
+  width: 60px;
+  height: 60px
+}
+.variations__option--Brasileirão {
+  background-image: url(/img/uploads/patch-sp.jpg);
+  color: transparent;
+  background-size: 100% 100%;
+  font-size: 0px;
+  width: 60px;
+  height: 60px;
+}
+.variations__option--Libertadores {
+  background-image: url(/img/uploads/patch-sp2.jpg);
+  color: transparent;
+  background-size: 100% 100%;
+  font-size: 0px;
+  width: 60px;
+  height: 60px;
+}
+.selos {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  padding: 0;
+  margin: 0;
+  max-width: 100%;
+}
+.selos li:not(:last-child) {
+    margin-right: 1.5rem;
+}
+
+.selos > li {
+    min-width: 120px;
+    max-width: 180px;
+    padding: 1rem 0;
+    text-align: center;
+}
+.selos img {
+    max-height: none;
+}
+.selos li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  background-color: #fff;
+  box-shadow: .0725rem .0725rem .35rem #979798;
+  width: auto;
+  height: 8rem;
+}
+
+@media(min-width: 767px) {
+  .container-selos img {
+      max-width: 80px;
+  }
+}
+@media(max-width: 767px) {
+.container-selos img {
+    max-width: 70px;
+}
+}
+
+.container-selos p {
+  font-weight: bold;
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+
+.info-bar {
+  color: #f8cd4d;
+  background: #111;
+  font-weight: bold;
+  
+}
