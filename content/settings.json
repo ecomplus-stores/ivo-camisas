@@ -1,12 +1,12 @@
 {
   "domain": "ivo-camiss.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#313131",
+  "primary_color": "#000003",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-white"
   },
-  "bg_color": "#fff",
+  "bg_color": "#000000",
   "logo": "/img/uploads/bannercapaatualbranco.png",
   "name": "ivo-camiss",
   "short_name": "ivo-camiss",
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#c1ab1f",
+  "secondary_color": "#f8cd4d",
   "icon": "/img/icon.png",
   "store_id": 1196,
   "description": "ivo-camiss",
