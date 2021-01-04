@@ -9,32 +9,44 @@
         {
           "img": "/img/uploads/lanca1_copy_800x290.png",
           "link": "/",
-          "alt": ""
+          "alt": "",
+          "start": "2021-01-04T17:31:24.988Z",
+          "end": "2021-01-04T17:31:25.351Z"
         },
         {
           "img": "/img/uploads/lanca2_copy_800x290.png",
           "alt": "",
-          "link": ""
+          "link": "",
+          "start": "2021-01-04T17:31:25.677Z",
+          "end": "2021-01-04T17:31:26.017Z"
         },
         {
           "img": "/img/uploads/lanca3_copy_800x290.png",
           "link": "/",
-          "alt": ""
+          "alt": "",
+          "start": "2021-01-04T17:31:26.328Z",
+          "end": "2021-01-04T17:31:26.724Z"
         },
         {
           "img": "/img/uploads/lanca4_copy_800x290.png",
           "alt": "",
-          "link": ""
+          "link": "",
+          "start": "2021-01-04T17:31:27.002Z",
+          "end": "2021-01-04T17:31:27.265Z"
         },
         {
           "img": "/img/uploads/feedbackclientes_copy_800x290.png",
           "link": "/",
-          "alt": ""
+          "alt": "",
+          "start": "2021-01-04T17:31:27.569Z",
+          "end": "2021-01-04T17:31:27.935Z"
         },
         {
           "img": "/img/uploads/1606708745067_BannerWhatsAmarelo_copy_800x290.png",
           "alt": "",
-          "link": ""
+          "link": "",
+          "start": "2021-01-04T17:31:28.347Z",
+          "end": "2021-01-04T17:31:28.666Z"
         }
       ]
     },
@@ -50,8 +62,22 @@
       "page": 1
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5fda5ae269274c73fce9e518:categories:NBA:/nba/",
+      "sort": "news"
+    },
+    {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ]
 }
