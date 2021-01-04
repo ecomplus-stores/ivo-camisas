@@ -1,22 +1,23 @@
 {
-  "store_id": 1196,
-  "name": "ivo-camiss",
   "domain": "ivo-camiss.netlify.app",
-  "short_name": "ivo-camiss",
-  "description": "ivo-camiss",
+  "currency_symbol": "R$",
   "primary_color": "#313131",
-  "secondary_color": "#e36159",
-  "bg_color": "#fff",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "_"
   },
+  "bg_color": "#fff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "ivo-camiss",
+  "short_name": "ivo-camiss",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#c1ab1f",
+  "icon": "/img/icon.png",
+  "store_id": 1196,
+  "description": "ivo-camiss",
+  "large_icon": "/img/large-icon.png"
 }
