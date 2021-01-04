@@ -8,11 +8,15 @@
     "text": "Compra Segura"
   },
   "exchange": {
-    "show": false,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "show": true,
+    "text": "Não efetuamos trocas de produtos personalizados."
   },
   "promo": {
     "show": true,
-    "text": "Camisa de Futebol em promoção"
+    "text": "#vesteacamisa"
+  },
+  "installments": {
+    "text": "EM ATÉ 12X (3X SEM JUROS)",
+    "show": true
   }
 }
