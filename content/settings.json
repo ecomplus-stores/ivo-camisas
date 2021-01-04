@@ -1,10 +1,10 @@
 {
   "domain": "ivo-camiss.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#000003",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-white"
+    "custom": "_"
   },
   "bg_color": "#000000",
   "logo": "/img/uploads/bannercapaatualbranco.png",
