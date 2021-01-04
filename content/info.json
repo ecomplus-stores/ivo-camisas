@@ -8,15 +8,15 @@
     "text": "Compra Segura"
   },
   "exchange": {
-    "show": true,
-    "text": "Não efetuamos trocas de produtos personalizados."
+    "show": false,
+    "text": ""
   },
   "promo": {
     "show": true,
-    "text": "#vesteacamisa"
+    "text": "Aproveite nossos descontos!"
   },
   "installments": {
-    "text": "EM ATÉ 12X (3X SEM JUROS)",
+    "text": "Em até 12x (3x sem juros)",
     "show": true
   }
 }
