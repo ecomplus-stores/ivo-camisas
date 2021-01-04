@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#000003",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "superhero",
     "custom": "clean-white"
   },
   "bg_color": "#000000",
@@ -16,8 +16,8 @@
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
   "secondary_color": "#f8cd4d",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/logoivocamisas.png",
   "store_id": 1196,
   "description": "ivo-camiss",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/logoivocamisas.png"
 }
