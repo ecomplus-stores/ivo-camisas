@@ -1,5 +1,26 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "campeonato-alemao/",
+    "campeonato-argentino/",
+    "campeonato-brasileiro/",
+    "campeonato-espanhol/",
+    "campeonato-espanhol-2divisao/",
+    "campeonato-frances/",
+    "campeonato-holandes/",
+    "campeonato-ingles/",
+    "campeonato-italiano/",
+    "campeonato-mexicano/",
+    "campeonato-portugues/",
+    "efl-championship/",
+    "major-league-soccer/",
+    "retro/",
+    "selecoes/",
+    "feminino/",
+    "infantil/",
+    "pre-jogo/",
+    "treino/",
+    "agasalho/"
+  ],
   "phone_wpp": true,
   "socials": true
 }
