@@ -21,6 +21,7 @@
     "treino/",
     "agasalho/"
   ],
-  "phone_wpp": true,
-  "socials": true
+  "socials": true,
+  "phone_wpp": true
+  
 }
