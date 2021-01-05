@@ -1,5 +1,5 @@
 {
   "css": "",
-  "html_head": "",
+  "html_head": "variations__option--Libertadores {\n  background-image: url(/img/uploads/patch-sp2.jpg) !important;\n  color: transparent;\n  background-size: 100% 100%;\n  font-size: 0px;\n  width: 60px;\n  height: 60px;",
   "html_body": ""
 }
