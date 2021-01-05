@@ -1,5 +1,5 @@
 {
-  "css": "",
-  "html_head": "variations__option--Libertadores {\n  background-image: url(/img/uploads/Logo premier league.png) !important;\n  color: transparent;\n  background-size: 100% 100%;\n  font-size: 0px;\n  width: 60px;\n  height: 60px;",
+  "css": "variations__option--Libertadores {\n  background-image: url(/img/uploads/Logo premier league.png) !important;\n  color: transparent;\n  background-size: 100% 100%;\n  font-size: 0px;\n  width: 60px;\n  height: 60px;",
+  "html_head": "",
   "html_body": ""
 }
