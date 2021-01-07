@@ -1,5 +1,5 @@
 {
-  "css": "",
-  "html_head": "variations__option--Premier/\\League {\n  background-image: url(/img/uploads/logo-premier-league.png);\n  color: transparent;\n  background-size: 100% 100%;\n  font-size: 0px;\n  width: 60px;\n  height: 60px;",
+  "css": ".variations__option--Premier\/League {\n  background-image: url(/img/uploads/logo-premier-league.png);\n  color: transparent;\n  background-size: 100% 100%;\n  font-size: 0px;\n  width: 60px;\n  height: 60px;",
+  "html_head": "",
   "html_body": ""
 }
