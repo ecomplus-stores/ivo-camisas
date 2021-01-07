@@ -46,11 +46,11 @@ _.breadcrumbs.push({
       </div>
     <% } %>
   </div>
+  <script>
+    storefront.on('widget:@ecomplus/widget-minicart', function () {
+      setTimeout(function () {
+        document.querySelector('.product__buy').before(document.querySelector('#guides'))
+      }, 800);
+    });
+  </script>
 <% } %>
-<script>
-  storefront.on('widget:@ecomplus/widget-minicart', function () {
-    setTimeout(function () {
-      document.querySelector('.product__buy').before(document.querySelector('#guides'))
-    }, 800);
-  });
-</script>
