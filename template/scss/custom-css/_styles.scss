@@ -20,7 +20,7 @@
   background: #000;
   color: #fce9af;
 }
-.variations__option--Não {
+.variations__option--Não, .variations__option--NÃO {
   background-image: url(/img/uploads/no-image-select-placeholder.png);
   color: transparent;
   background-size: 100% 100%;
@@ -142,4 +142,12 @@
     vertical-align: middle;
     text-align: center;
   }
+}
+.variations__option--PREMIER.LEAGUE {
+  background-image: url(/img/uploads/logo-premier-league.png);
+  color: transparent;
+  background-size: 100% 100%;
+  font-size: 0px;
+  width: 60px;
+  height: 60px;
 }
