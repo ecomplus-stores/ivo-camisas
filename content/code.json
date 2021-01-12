@@ -1,5 +1,5 @@
 {
-  "css": ".variations__option--PREMIER.LEAGUE {\n  background-image: url(/img/uploads/premierleague.png);\n  color: transparent;\n  background-size: 100% 100%;\n  font-size: 0px;\n  width: 60px;\n  height: 60px;\n}\n.variations__option--BRASILEIRÃO {\n  background-image: url(/img/uploads/brasileirao.png);\n  color: transparent;\n  background-size: 100% 100%;\n  font-size: 0px;\n  width: 60px;\n  height: 60px;\n}\n.variations__option-LIBERTADORES {\n    background-image: url(/img/uploads/libertadores-3-tacas.png);\n    color: transparent;\n    background-size: 100% 100%;\n    font-size: 0px;\n    width: 60px;\n    height: 60px;\n}",
+  "css": ".variations__option--PREMIER.LEAGUE {\n  background-image: url(/img/uploads/premierleague.png);\n  color: transparent;\n  background-size: 100% 100%;\n  font-size: 0px;\n  width: 60px;\n  height: 60px;\n}\n.variations__option--BRASILEIRÃO {\n  background-image: url(/img/uploads/brasileirao.png);\n  color: transparent;\n  background-size: 100% 100%;\n  font-size: 0px;\n  width: 60px;\n  height: 60px;\n}\n.variations__option--LIBERTADORES {\n    background-image: url(/img/uploads/libertadores3tacas.png);\n    color: transparent;\n    background-size: 100% 100%;\n    font-size: 0px;\n    width: 60px;\n    height: 60px;\n}",
   "html_head": "",
   "html_body": ""
 }
