@@ -103,10 +103,6 @@
 }
 #guides {
   & a {
-    border: 1px solid;
-    padding: 7px;
-    text-transform: uppercase;
-    width: 50%;
     text-align: center;
     margin-bottom: 1rem;
   }
@@ -150,4 +146,7 @@
   font-size: 0px;
   width: 60px;
   height: 60px;
+}
+.product__buy button {
+  width: 100%;
 }
