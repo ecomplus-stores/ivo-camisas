@@ -1,7 +1,11 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Ivo Camisas",
+  "meta_description": "Artigos esportivos e muito mais você encontra aqui!",
   "sections": [
+    {
+      "type": "custom-html",
+      "html": "<div class=\"container-selos\" style=\"text-align: center;background: #f2f2f2;padding: 1.5rem;\"><p>Compre agora das principais ligas</p><ul class=\"selos\"><li><a href=\"https://www.ivocamisas.com.br/campeonato-brasileiro/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/LOGO-BRASILEIRaO.png\" alt=\"Brasileirao\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-alemao/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-bundesliga.png\" alt=\"Bundesliga\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-espanhol/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-laliga.png\" alt=\"La liga\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-ingles/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-premier-league.png\" alt=\"Premier league\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-italiano/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-Serie-A-Tim.png\" alt=\"Serie A Tim\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-frances/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-ligue1.png\" alt=\"Brasileirao\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-holandes/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-eredivise.png\" alt=\"Bundesliga\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-portugues/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-primeira-liga.png\" alt=\"La liga\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-mexicano/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-liga-mx.png\" alt=\"Premier league\"></a></li><li><a href=\"https://www.ivocamisas.com.br/major-league-soccer/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-MLS.png\" alt=\"Serie A Tim\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-argentino/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-liga-argentina.png\" alt=\"La liga\"></a></li><li><a href=\"https://www.ivocamisas.com.br/selecoes/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-selecoes.png\" alt=\"Premier league\"></a></li><li><a href=\"https://www.ivocamisas.com.br/times-diversos/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-Times-Diversos.png\" alt=\"Serie A Tim\"></a></li></ul></div>"
+    },
     {
       "type": "banner-slider",
       "autoplay": 9000,
@@ -51,13 +55,39 @@
       ]
     },
     {
-      "type": "custom-html",
-      "html": "<div class=\"container-selos\" style=\"text-align: center;background: #f2f2f2;padding: 1.5rem;\"><p>Compre agora das principais ligas</p><ul class=\"selos\"><li><a href=\"https://www.ivocamisas.com.br/campeonato-brasileiro/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/LOGO-BRASILEIRaO.png\" alt=\"Brasileirao\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-alemao/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-bundesliga.png\" alt=\"Bundesliga\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-espanhol/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-laliga.png\" alt=\"La liga\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-ingles/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-premier-league.png\" alt=\"Premier league\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-italiano/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-Serie-A-Tim.png\" alt=\"Serie A Tim\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-frances/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-ligue1.png\" alt=\"Brasileirao\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-holandes/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-eredivise.png\" alt=\"Bundesliga\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-portugues/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-primeira-liga.png\" alt=\"La liga\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-mexicano/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-liga-mx.png\" alt=\"Premier league\"></a></li><li><a href=\"https://www.ivocamisas.com.br/major-league-soccer/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-MLS.png\" alt=\"Serie A Tim\"></a></li><li><a href=\"https://www.ivocamisas.com.br/campeonato-argentino/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-liga-argentina.png\" alt=\"La liga\"></a></li><li><a href=\"https://www.ivocamisas.com.br/selecoes/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-selecoes.png\" alt=\"Premier league\"></a></li><li><a href=\"https://www.ivocamisas.com.br/times-diversos/\"><img src=\"https://cdn.ecvol.com/s/www.ivocamisas.com.br/uploads/Logo-Times-Diversos.png\" alt=\"Serie A Tim\"></a></li></ul></div>"
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "5fda5a3769274c73fce9e379:categories:Campeonato Brasileiro :/campeonato-brasileiro/",
+      "limit": 12,
+      "page": 1,
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5fda5ae269274c73fce9e518:categories:NBA:/nba/",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5fda5a3c69274c73fce9e386:categories:Campeonato Inglês :/campeonato-ingles/",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 12,
       "page": 1
     },
@@ -65,9 +95,7 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1,
-      "collection_id": "5fda5ae269274c73fce9e518:categories:NBA:/nba/",
-      "sort": "news"
+      "page": 1
     },
     {
       "type": "collection-shelf",
