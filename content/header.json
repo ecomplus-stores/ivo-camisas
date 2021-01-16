@@ -2,7 +2,8 @@
   "marketing_stripe": {
     "text": "Artigos esportivos e muito mais você encontra aqui!",
     "link": "/promotion",
-    "background": "#f8cd4d"
+    "background": "#f8cd4d",
+    "color": "#000000"
   },
   "contacts_stripe": {
     "pages": [
