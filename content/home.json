@@ -5,50 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "slides": [
-        {
-          "img": "/img/uploads/lanca1_copy_800x290.png",
-          "link": "/",
-          "alt": "",
-          "start": "2021-01-04T17:31:24.988Z",
-          "end": "2021-01-04T17:31:25.351Z"
-        },
-        {
-          "img": "/img/uploads/lanca2_copy_800x290.png",
-          "alt": "",
-          "link": "",
-          "start": "2021-01-04T17:31:25.677Z",
-          "end": "2021-01-04T17:31:26.017Z"
-        },
-        {
-          "img": "/img/uploads/lanca3_copy_800x290.png",
-          "link": "/",
-          "alt": "",
-          "start": "2021-01-04T17:31:26.328Z",
-          "end": "2021-01-04T17:31:26.724Z"
-        },
-        {
-          "img": "/img/uploads/lanca4_copy_800x290.png",
-          "alt": "",
-          "link": "",
-          "start": "2021-01-04T17:31:27.002Z",
-          "end": "2021-01-04T17:31:27.265Z"
-        },
-        {
-          "img": "/img/uploads/feedbackclientes_copy_800x290.png",
-          "link": "/",
-          "alt": "",
-          "start": "2021-01-04T17:31:27.569Z",
-          "end": "2021-01-04T17:31:27.935Z"
-        },
-        {
-          "img": "/img/uploads/1606708745067_BannerWhatsAmarelo_copy_800x290.png",
-          "alt": "",
-          "link": "",
-          "start": "2021-01-04T17:31:28.347Z",
-          "end": "2021-01-04T17:31:28.666Z"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "custom-html",
