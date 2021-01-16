@@ -10,7 +10,7 @@
   },
   "links_2": {
     "list_categories": false,
-    "title": "instagram",
+    "title": "Instagram",
     "list": []
   },
   "contacts": {
@@ -30,16 +30,19 @@
     "bb": true,
     "visa": true,
     "boleto": true,
-    "aura": false,
+    "aura": true,
     "banrisul": true,
     "elo": true,
     "hipercard": true,
-    "hsbc": false,
+    "hsbc": true,
     "bradesco": true,
     "santander": true,
     "mastercard": true,
-    "citibank": false,
+    "citibank": true,
+    "hiper": true,
+    "diners": true,
     "mais": true,
+    "amex": true,
     "itau": true
   },
   "credits": "Ivo Camisas - © 2021 Todos os direitos reservados"
