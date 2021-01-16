@@ -5,7 +5,13 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "slides": []
+      "slides": [
+        {
+          "start": "2021-01-16T21:05:01.987Z",
+          "end": "2022-01-16T21:05:00.000Z",
+          "img": "/img/uploads/slyder1.png"
+        }
+      ]
     },
     {
       "type": "custom-html",
