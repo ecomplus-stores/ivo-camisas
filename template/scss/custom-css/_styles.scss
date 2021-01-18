@@ -150,3 +150,12 @@
 .product__buy button {
   width: 100%;
 }
+@media screen and (min-width: 998px) {
+    .product-item {
+        max-width: 180px;
+    }
+
+    .glide__slide.products-carousel__item {
+        width: 180px !important;
+    }
+}
