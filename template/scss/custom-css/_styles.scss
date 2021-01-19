@@ -162,3 +162,9 @@
 .breadcrumb-item:first-of-type {
   display: block !important;;
 }
+.product-card__picture:not(:last-child) {
+    display: none;
+}
+.product-card__picture:last-child {
+    opacity: 1 !important;
+}
