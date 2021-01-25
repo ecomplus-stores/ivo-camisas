@@ -13,15 +13,14 @@
     "campeonato-portugues/",
     "efl-championship/",
     "major-league-soccer/",
-    "retro/",
     "selecoes/",
+    "retro/",
     "feminino/",
     "infantil/",
-    "pre-jogo/",
     "treino/",
+    "pre-jogo/",
     "agasalho/"
   ],
   "socials": true,
   "phone_wpp": true
-  
 }
