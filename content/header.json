@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Artigos esportivos e muito mais você encontra aqui!",
+    "text": "Artigos esportivos e muito mais você encontra aqui",
     "link": "/promotion",
     "background": "#f8cd4d",
     "color": "#000000"
@@ -23,7 +23,7 @@
       "/novidades-da-semana/?Novidades da semana"
     ],
     "random": 0,
-    "full_width": true
+    "full_width": false
   },
   "search_input": true
 }
