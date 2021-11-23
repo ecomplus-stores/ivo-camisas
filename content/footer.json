@@ -10,13 +10,13 @@
   },
   "links_2": {
     "list_categories": false,
-    "title": "Instagram",
+    "title": "",
     "list": []
   },
   "contacts": {
     "title": "Contatos",
     "phone_wpp": true,
-    "socials": true,
+    "socials": false,
     "email": true,
     "address": true
   },
