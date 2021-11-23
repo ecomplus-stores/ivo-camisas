@@ -1,5 +1,5 @@
 {
-  "css": ".variations__option--PREMIER.LEAGUE {\n  background-image: url(/img/uploads/Patchpl21-22.jpg);\n  color: transparent;\n  background-size: 100% 100%;\n  font-size: 0px;\n  width: 60px;\n  height: 60px;\n}\n.variations__option--BRASILEIRÃO {\n  background-image: url(/img/uploads/Patchbrasileirão2021atualizado.png);\n  color: transparent;\n  background-size: 100% 100%;\n  font-size: 0px;\n  width: 60px;\n  height: 60px;\n}\n.variations__option--LIBERTADORES {\n    background-image: url(/img/uploads/Patchlibertadores3tacas.png);\n    color: transparent;\n    background-size: 100% 100%;\n    font-size: 0px;\n    width: 60px;\n    height: 60px;\n}",
+  "css": ".variations__option--PREMIER.LEAGUE {\n  background-image: url(/img/uploads/Patchpl21-22.jpg);\n  color: transparent;\n  background-size: 100% 100%;\n  font-size: 0px;\n  width: 60px;\n  height: 60px;\n}\n.variations__option--BRASILEIRÃO.2021 {\n  background-image: url(/img/uploads/Patchbrasileirão2021atualizado.png);\n  color: transparent;\n  background-size: 100% 100%;\n  font-size: 0px;\n  width: 60px;\n  height: 60px;\n}\n.variations__option--LIBERTADORES {\n    background-image: url(/img/uploads/Patchlibertadores3tacas.png);\n    color: transparent;\n    background-size: 100% 100%;\n    font-size: 0px;\n    width: 60px;\n    height: 60px;\n}",
   "html_head": "",
   "html_body": ""
 }
